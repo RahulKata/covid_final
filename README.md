@@ -3,8 +3,13 @@ COVID_19 Webapp
 
 > By Rahul Kata
 
-In the project directory, you can run:
-
 ### `npm install`
 
-To install the necessary node modules to run the app
+To install the necessary node modules.
+
+
+### `npm start`
+
+To run the app.
+
+
