@@ -39,3 +39,9 @@ To run the app.
     <td>COVID_19 WebApp</td>
   </tr>
 </table>
+
+---
+
+### Sneak-Peek
+
+<img src="./sneak1.png" alt="Home_Page"/>
