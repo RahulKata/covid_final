@@ -42,4 +42,4 @@ To run the app.
 
 ---
 
-<img src="./corona.gif" alt="Home_Page"/>
+<img src="./corona.gif" alt="Covid website"/>
